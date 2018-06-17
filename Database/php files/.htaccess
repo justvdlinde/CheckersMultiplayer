@@ -1,0 +1,4 @@
+RewriteEngine On
+
+RewriteRule ^Index?$ index.php
+RewriteRule ^Welcome?$ welcome.php
